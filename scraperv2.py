@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 from urllib.parse import urljoin
 
-TOKEN = "8755937047:AAHBFaKCan-W8QLls2DDJ3-XpUdyw3tP16w"
+TOKEN = "8773159782:AAEr5R5LGTGxqc2fuYtUWhYxhgc71BWIoqM"
 bot = telebot.TeleBot(TOKEN)
 import logging
 
